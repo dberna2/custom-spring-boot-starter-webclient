@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.dberna2.webclient.springbootstarterwebclient.config.WebClientConfiguration
